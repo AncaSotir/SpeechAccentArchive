@@ -10,6 +10,6 @@ Description:
 
 References:
 
-> Speech Accent Archive - https://accent.gmu.edu/
+- Speech Accent Archive - https://accent.gmu.edu/
 
-> Kaggle Dataset - https://www.kaggle.com/rtatman/speech-accent-archive
+- Kaggle Dataset - https://www.kaggle.com/rtatman/speech-accent-archive
